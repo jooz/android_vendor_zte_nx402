@@ -241,4 +241,4 @@ PRODUCT_COPY_FILES += \
     vendor/zte/nx402/proprietary/system/etc/init.qcom.bt.sh:system/etc/init.qcom.bt.sh \
     vendor/zte/nx402/proprietary/system/bin/fm_qsoc_patches:system/bin/fm_qsoc_patches \
     vendor/zte/nx402/proprietary/system/vendor/lib/lib-imsvt.so:system/vendor/lib/lib-imsvt.so \
-    vendor/zte/nx402/proprietary/system/bin/wcnss_service:system/bin/wcnss_service \
+    vendor/zte/nx402/proprietary/system/bin/wcnss_service:system/bin/wcnss_service
